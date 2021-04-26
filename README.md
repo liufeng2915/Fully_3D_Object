@@ -12,10 +12,10 @@ Inferring 3D structure of a generic object from a 2D image is a long-standing ob
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{liu2021fully,
+	@inproceedings{liu2021fully,
 	  title={Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction},
 	  author={Liu, Feng and Tran, Luan and Liu, Xiaoming},
-	  journal={Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+	  booktitle={Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 	  year={2021}
 	}
 
