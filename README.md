@@ -23,7 +23,7 @@ If you find our work useful in your research, please consider citing:
 
 ### Training
 
-***Stage 1: Shape and albedo decoder pre-training***
+***Stage 1: Shape and albedo decoders pre-training***
 
 please refer to latents_pretrain/README
 
