@@ -27,7 +27,7 @@ If you find our work useful in your research, please consider citing:
 
 please refer to latents_pretrain/README
 
-***Stage 2: Singe-view reconstruction training***
+***Stage 2: Single-view reconstruction training***
 
 please refer to SVR/README
 
