@@ -6,7 +6,7 @@ In this stage, the shape and albedo decoders are first pre-trained with CAD mode
 
 **Dataset**
 
-The decoders take point-value pairs as inputs. Please download the data from: https://drive.google.com/file/d/1Bnqneg6y7YdYnuzXYA9TCCvZQdJvRSjw/view?usp=sharing. Our sampling method used this paper [Learning Implicit Fields for Generative Shape Modeling](https://github.com/czq142857/implicit-decoder). Please consider citing it if your used the data. 
+The decoders take point-value pairs as inputs. Please download the data from: https://drive.google.com/file/d/1Bnqneg6y7YdYnuzXYA9TCCvZQdJvRSjw/view?usp=sharing. Our sampling method used this paper [Learning Implicit Fields for Generative Shape Modeling](https://github.com/czq142857/implicit-decoder). Please consider citing it if you use the data. 
 
 **Pretrained models**
 
