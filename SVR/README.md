@@ -14,6 +14,8 @@ In this stage, we first pre-train our model with synthetic images (ShapeNet rend
      -- Camera Projection Matrix
 ```
 
+* Pascal 3D+ real images. Please download the Pascal 3D+ dataset from https://cvgl.stanford.edu/projects/pascal3d.html.
+
 **Pretrained models**
 
 The pretrained models can be downloaded  from: https://drive.google.com/file/d/1Gjfcgq9IK-vkNEFdykhee1atdOatUk4m/view?usp=sharing
