@@ -1,6 +1,6 @@
 ***Stage 2: Single-view reconstruction training***
 
-In this stage, we first pre-train with synthetic images (ShapeNet renderings). Then the model is fine-tuned with real images.
+In this stage, we first pre-train our model with synthetic images (ShapeNet renderings). Then the model is fine-tuned with real images.
 
 **Dataset**
 
@@ -12,4 +12,11 @@ In this stage, we first pre-train with synthetic images (ShapeNet renderings). T
      -- Albedo Image       
      -- Mask Image
      -- Camera Projection Matrix
+```
+
+**Pretrained models**
+
+The pretrained models can be downloaded  from: https://drive.google.com/file/d/1Gjfcgq9IK-vkNEFdykhee1atdOatUk4m/view?usp=sharing
+
+**Training**
 
