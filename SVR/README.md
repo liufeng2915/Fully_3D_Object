@@ -18,7 +18,7 @@ In this stage, we first pre-train our model with synthetic images (ShapeNet rend
 
 **Pretrained models**
 
-The pretrained models can be downloaded  from: https://drive.google.com/file/d/1Gjfcgq9IK-vkNEFdykhee1atdOatUk4m/view?usp=sharing
+The pretrained models can be downloaded  from: https://drive.google.com/file/d/1QMk9kFQjHfPFOe3CsN5qmNvPlLkkLiHS/view?usp=sharing
 
 **Training**
 
