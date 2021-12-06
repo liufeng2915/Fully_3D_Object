@@ -10,7 +10,7 @@ The decoders take point-value pairs as inputs. Please download the data from: ht
 
 **Pretrained models**
 
-The pretrained models can be downloaded  from: https://drive.google.com/file/d/1Gjfcgq9IK-vkNEFdykhee1atdOatUk4m/view?usp=sharing
+The pretrained models can be downloaded  from: https://drive.google.com/file/d/1QMk9kFQjHfPFOe3CsN5qmNvPlLkkLiHS/view?usp=sharing
 
 **Training**
 
